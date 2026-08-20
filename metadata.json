@@ -1,0 +1,10 @@
+{
+  "name": "PT. Esa Jaya Mulia Sentosa - GPS Tracker",
+  "description": "Aplikasi GPS Tracker armada PT. Esa Jaya Mulia Sentosa dengan pemantauan koordinat real-time, riwayat perhentian 30 hari, deteksi berhenti >60 menit, ekspor laporan (Excel/PDF), dan sistem role Owner, Admin, Driver.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
